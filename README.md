@@ -12,8 +12,7 @@ Some startups around the globe
 
 #### Frameworks
 
-<img src="https://img.shields.io/badge/tailwind-css%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
-
+<img src="https://img.shields.io/badge/tailwind-css%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
 #### Testing
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
 
